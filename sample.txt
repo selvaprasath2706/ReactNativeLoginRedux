@@ -1,0 +1,4 @@
+Store :
+    Redux thunk
+    check is there user 
+    name of the user
